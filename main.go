@@ -15,7 +15,7 @@ import (
 type HashingAlgorithm int
 
 const (
-	SHA1 HashingAlgorithm = iota // RFC 6238 consiglia SHA-1 per TOTP
+	SHA1 HashingAlgorithm = iota // RFC 6238 advice SHA-1 per TOTP
 	SHA256
 	SHA512
 )
