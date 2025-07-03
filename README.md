@@ -1,4 +1,4 @@
-his repository contains a highly configurable **Time-Based One-Time Password (TOTP) generator** implemented in Go. It allows you to generate and optionally validate TOTP codes using various hashing algorithms, code lengths, and time steps, all configurable via command-line flags.
+This repository contains a highly configurable **Time-Based One-Time Password (TOTP) generator** implemented in Go. It allows you to generate and optionally validate TOTP codes using various hashing algorithms, code lengths, and time steps, all configurable via command-line flags.
 
 ---
 
